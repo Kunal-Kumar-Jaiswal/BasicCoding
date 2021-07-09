@@ -1,5 +1,5 @@
 /*  
-	Input: Two arrays of mathematical expression in the form of Ax^a+Bx^b+....
+	Input: Two arrays of mathematical expression in the form of Ax^a + Bx^b +....
 	Demo: array(1) = x^2 + 6x^3 and array(2) = x^4 + 3x^2
 	Output: 4x^2 + 6x^3 + x^4  
 */
